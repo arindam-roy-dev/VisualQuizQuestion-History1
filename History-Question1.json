@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is this historical structure?",
+"answers":[
+	"Roman Colosseum",
+	"Great Wall of China",
+	"Roman Aqueducts",
+	"Sacsaywaman (Structure of the Inca Empire)"
+	],
+"correctAnswer":2,
+"hints":[
+	"Built in 7th century BC",
+	"Loacted in Asia"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China to protect the Chinese states and empires against the raids and invasions of the various nomadic groups of the Eurasian Steppe with an eye to expansion. Several walls were being built from as early as the 7th century BC; these were later joined together and made bigger by Qin Shi Huang (220–206 BC), the first Emperor of China.\nA comprehensive archaeological survey, using advanced technologies, has concluded that the walls built by the Ming dynasty measure 8,850 km (5,500 Miles). This is made up of 6,259 KM (3,889 Miles) sections of actual wall, 359 KM (223 Miles) of trenches and 2,232 KM (1,387 Miles) of natural defensive barriers such as hills and rivers."
+}
