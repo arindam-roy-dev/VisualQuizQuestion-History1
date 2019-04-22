@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this historical place?",
+"answers":[
+	"Machu Picchu, Peru",
+	"Pompeii, Italy",
+	"Athens, Greece",
+	"Mohenjo-daro, Pakistan"
+	],
+"correctAnswer":1,
+"hints":[
+	"Built in 15th century",
+	"Place of Inca civilization"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Machu Picchu is the most familiar icon of Inca civilization. It is located in the Eastern Cordillera of southern Peru, on a mountain ridge 2,430 metres (7,970 ft) above sea level. It was built around 1450–1460. Its construction appears to date to the period of the two great Inca rulers, Pachacutec Inca Yupanqui (1438–1471) and Túpac Inca Yupanqui (1472–1493). \nMachu Picchu was built in the classical Inca style, with polished dry-stone walls. Its three primary structures are the Intihuatana, the Temple of the Sun, and the Room of the Three Windows.\nIt was used for only approximately 80 years before being abandoned, seemingly due to destruction of the Spanish Conquests in other parts of the Inca Empire. It is possible that most of its inhabitants died from smallpox introduced by travelers before the Spanish conquistadors arrived in the area."
+}
