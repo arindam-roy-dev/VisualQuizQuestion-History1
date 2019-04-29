@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"In which year Bangladesh was formed as Separate Country?",
+"answers":[
+	"1947",
+	"1962",
+	"1970",
+	"1971"
+	],
+"correctAnswer":4,
+"hints":[
+	"The Independence of Bangladesh was declared by Sheikh Mujibur Rahman."
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Following the Pakistan Army's brutal Operation Searchlight on 25 March 1971, Sheikh Mujibur Rahman declared the Independence of Bangladesh and called for nationwide resistance on 26 March midnight, which led the Bangladesh Liberation War to officially start within hours."
+}

@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"The Great Pyramid of Giza was built for which Egyptian ruler?",
+"answers":[
+	"Khufu",
+	"Djedefre",
+	"Khafre",
+	"Neferefre"
+	],
+"correctAnswer":1,
+"hints":[
+	"Greek form of the name is Cheops",
+	"Built around 2589–2566 BC"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Khufu (Greek form Cheops and Suphis) Built the Great pyramid of Giza.Khufu is depicted as a cruel tyrant by ancient Greek authors, Ancient Egyptian sources however describe him as a generous and pious ruler.\nHe is the main protagonist of the famous Westcar Papyrus. The first imprinted papyri originate from Khufu's reign, which may have made ancient Greek authors believe that Khufu wrote books in attempt to praise the gods."
+}

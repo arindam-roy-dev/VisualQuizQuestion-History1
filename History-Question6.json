@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"Where was Gautama Buddha born?",
+"answers":[
+	"Bodh Gaya",
+	"Great Wall of China",
+	"Lumbini",
+	"Sarnath"
+	],
+"correctAnswer":3,
+"hints":[
+	"It is now Buddhist pilgrimage site in the Rupandehi District of Province No. 5 in Nepal"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":0
+	},
+"aboutAnswer":"According to the Buddhist tradition, Gautama was born in Lumbini, now in modern-day Nepal, and raised in the Shakya capital of Kapilvastu, which may have been either in what is present day Tilaurakot, Nepal or Piprahwa, India.\nAccording to Buddhist tradition, he obtained his enlightenment in Bodh Gaya, gave his first sermon in Sarnath, and died in Kushinagar."
+}
