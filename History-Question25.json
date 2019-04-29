@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Pyramid?",
+"answers":[
+	"Pyramid of Khafre",
+	"Sneferu's Red Pyramid",
+	"The Great Pyramid of Giza",
+	"The Pyramid of Djoser"
+	],
+"correctAnswer":3,
+"hints":[
+	"Built in 2580–2560 BC (4th dynasty)",
+	"Ancient name is Khufu's Horizon"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Great Pyramid of Giza (also known as the Pyramid of Khufu or the Pyramid of Cheops) is the oldest and largest of the three pyramids in the Giza pyramid complex bordering present-day El Giza, Egypt.\n It is the oldest of the Seven Wonders of the Ancient World, and the only one to remain largely intact. Based on a mark in an interior chamber naming the work gang and a reference to the fourth dynasty Egyptian Pharaoh Khufu, some Egyptologists believe that the pyramid was thus built as a tomb over a 10- to 20-year period concluding around 2560 BC.\nThere are three known chambers inside the Great Pyramid. The lowest chamber is cut into the bedrock upon which the pyramid was built and was unfinished. The so-called Queen's Chamber and King's Chamber are higher up within the pyramid structure. The main part of the Giza complex is a set of buildings that included two mortuary temples in honour of Khufu (one close to the pyramid and one near the Nile), three smaller pyramids for Khufu's wives, an even smaller \"satellite\" pyramid, a raised causeway connecting the two temples, and small mastaba tombs surrounding the pyramid for nobles."
+}
