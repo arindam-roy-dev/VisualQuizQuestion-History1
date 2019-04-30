@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this historical structure?",
+"answers":[
+	"Roman Colosseum",
+	"Windsor Castle",
+	"Porta Nigra",
+	"Temple of Athena Nike"
+	],
+"correctAnswer":3,
+"hints":[
+	"It is a large Roman City Gate",
+	"Meaning of the name is \"Black Gate\"",
+	"Located in Trier, Germany"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Porta Nigra (Latin for black gate) is a large Roman city gate in Trier, Germany. It is today the largest Roman city gate north of the Alps.\nThe name Porta Nigra originated in the Middle Ages due to the darkened colour of its stone; the original Roman name has not been preserved. Locals commonly refer to the Porta Nigra simply as Porta.\The Porta Nigra was built in grey sandstone after 170 AD.\nThe original gate consisted of two four-storeyed towers, projecting as near semicircles on the outer side. A narrow courtyard separated the two gate openings on either side. For unknown reasons, however, the construction of the gate remained unfinished. For example, the stones at the northern (outer) side of the gate were never abraded, and the protruding stones would have made it impossible to install movable gates. Nonetheless, the gate was used for several centuries until the end of the Roman era in Trier. It serves as an entrance to town.\nIn Roman times, the Porta Nigra was part of a system of four city gates, one of which stood at each side of the roughly rectangular Roman city. The Porta Nigra guarded the northern entry to the Roman city, while the Porta Alba (White Gate) was built in the east, the Porta Media (Middle Gate) in the south, and the Porta Inclyta (Famous Gate) in the west, next to the Roman bridge across the Moselle. The gates stood at the ends of the two main streets of the Roman Trier, one of which led north-south and the other east-west. Of these gates, only the Porta Nigra still exists today."
+}
