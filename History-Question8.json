@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Can you Identify this Historical Construction?",
+"answers":[
+	"Angkor Wat",
+	"Hagar Qim and Mnajdra",
+	"Temple of Amada",
+	"Parthenon"
+	],
+"correctAnswer":4,
+"hints":[
+	"Temple of Athena",
+	"Loacted in Athens, Greece"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Parthenon is a former temple on the Athenian Acropolis, Greece, dedicated to the goddess Athena, whom the people of Athens considered their patron. The origin of the Parthenon's name is from the Greek word παρθενών (parthenon), which referred to the \"unmarried women's apartments\" in a house.\nConstruction began in 447 BC when the Athenian Empire was at the peak of its power. It was completed in 438 BC, although decoration of the building continued until 432 BC.\nAfter the Ottoman conquest, it was turned into a mosque in the early 1460s. On 26 September 1687, an Ottoman ammunition dump inside the building was ignited by Venetian bombardment. The resulting explosion severely damaged the Parthenon and its sculptures.\nSince 1975 numerous large-scale restoration projects have been undertaken, the latest is expected to finish in 2020."
+}

@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Can you Identify this Ancient Painting?",
+"answers":[
+	"Fresco",
+	"Lascaux Cave painting",
+	"Cuneiform/Sumerian cuneiform",
+	"Persepolis, Achaemenid Empire"
+	],
+"correctAnswer":1,
+"hints":[
+	"Over 600 parietal wall paintings cover the interior walls and ceilings",
+	"Loacted in France"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Lascaux (Lascaux Cave)  is the setting of a complex of caves near the village of Montignac, in the department of Dordogne in southwestern France.\nOver 600 parietal wall paintings cover the interior walls and ceilings of the cave. The paintings represent primarily large animals, typical local and contemporary fauna that correspond with the fossil record of the Upper Paleolithic time. The drawings are the combined effort of many generations, and with continued debate, the age of the paintings is estimated at around 17,000 years (early Magdalenian).\nLascaux was inducted into the UNESCO World Heritage Sites list in 1979, as element of the Prehistoric Sites and Decorated Caves of the Vézère Valley."
+}
