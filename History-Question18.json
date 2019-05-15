@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"What is this historical Construction?",
+"answers":[
+	"Baths of Caracalla",
+	"Castel Sant\'Angelo",
+	"Colosseum",
+	"Baths of Trajan"
+	],
+"correctAnswer":3,
+"hints":[
+	"It is an oval amphitheatre in the centre of the city of Rome"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Colosseum is an oval amphitheatre in the centre of the city of Rome, Italy. Built of travertine, tuff, and brick-faced concrete, it is the largest amphitheatre ever built.\nThe Colosseum is situated just east of the Roman Forum. Construction began under the emperor Vespasian in AD 72 and was completed in AD 80 under his successor and heir, Titus. Further modifications were made during the reign of Domitian (81–96).\nThe Colosseum could hold, it is estimated, between 50,000 and 80,000 spectators, having an average audience of some 65,000.\nit was used for gladiatorial contests and public spectacles such as mock sea battles, animal hunts, executions, re-enactments of famous battles, and dramas based on Classical mythology.\nAlthough partially ruined because of damage caused by earthquakes and stone-robbers, the Colosseum is still an iconic symbol of Imperial Rome and is listed as one of the New7Wonders of the World."
+}

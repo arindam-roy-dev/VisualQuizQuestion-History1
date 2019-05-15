@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"Adolf Hitler was born in which country?",
+"answers":[
+	"France",
+	"Germany",
+	"Hungary",
+	"Austria"
+	],
+"correctAnswer":2,
+"hints":[
+	"He moved to Germany from other Country in 1913"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Adolf Hitler was born in Austria, then part of Austria-Hungary—and was raised near Linz. He moved to Germany in 1913 and was decorated during his service in the German Army in World War I."
+}

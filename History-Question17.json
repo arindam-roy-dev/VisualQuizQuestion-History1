@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is this Historical City?",
+"answers":[
+	"Petra",
+	"Tikal",
+	"Angkor Wat",
+	"The Parthenon"
+	],
+"correctAnswer":1,
+"hints":[
+	"Located in southern Jordan",
+	"Possibly established in the 4th century BC as the capital city of the Nabataean Kingdom"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Petra is a historical and archaeological city in southern Jordan.\nPetra lies on the slope of Jabal Al-Madbah in a basin among the mountains which form the eastern flank of the Arabah valley that runs from the Dead Sea to the Gulf of Aqaba.\nPetra is believed to have been settled as early as 9,000 BC, and it was possibly established in the 4th century BC as the capital city of the Nabataean Kingdom.\nThe Nabataeans were nomadic Arabs who invested in Petra\'s proximity to the trade routes by establishing it as a major regional trading hub."
+}
