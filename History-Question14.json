@@ -1,4 +1,4 @@
-{
+﻿{
 "app":"Visual Quiz",
 "question":"Adolf Hitler was born in which country?",
 "answers":[
@@ -7,7 +7,7 @@
 	"Hungary",
 	"Austria"
 	],
-"correctAnswer":2,
+"correctAnswer":4,
 "hints":[
 	"He moved to Germany from other Country in 1913"
 	],

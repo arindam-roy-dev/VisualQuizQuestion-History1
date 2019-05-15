@@ -1,4 +1,4 @@
-{
+﻿{
 "app":"Visual Quiz",
 "question":"Which was the Napoleon last battle in which he was captured and exiled to St Helena?",
 "answers":[
@@ -7,7 +7,7 @@
 	"Battle of Waterloo",
 	"Battle of Austerlitz"
 	],
-"correctAnswer":1,
+"correctAnswer":3,
 "hints":[
 	"Battle was against British-led allied army and a Prussian army",
 	"It was Sunday, 18 June 1815 in Belgium"
