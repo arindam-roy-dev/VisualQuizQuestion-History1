@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the Oldest Civilization of the World?",
+"answers":[
+	"Mesopotamia",
+	"Harappa",
+	"Aztecs",
+	"Egyptian civilization"
+	],
+"correctAnswer":1,
+"hints":[
+	"Written History of 3100 BC",
+	"historical region of Western Asia situated within the Tigris and Euphrates rivers"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Mesopotamia, is the first known complex civilization. Mesopotamia is the site of the earliest developments of the Neolithic Revolution from around 10,000 BC. It has been identified as having \"inspired some of the most important developments in human history including the invention of the wheel, the planting of the first cereal crops and the development of cursive script, mathematics, astronomy and agriculture\".\nThe Sumerians and Akkadians (including Assyrians and Babylonians) dominated Mesopotamia from the beginning of written history (3100 BC) to the fall of Babylon in 539 BC, when it was conquered by the Achaemenid Empire.\nIt fell to Alexander the Great in 332 BC, and after his death, it became part of the Greek Seleucid Empire.\nMesopotamia is a historical region of Western Asia situated within the Tigris–Euphrates river system, in the northern part of the Fertile Crescent, in modern days roughly corresponding to most of Iraq, Kuwait, the eastern parts of Syria, Southeastern Turkey, and regions along the Turkish–Syrian and Iran–Iraq borders."
+}

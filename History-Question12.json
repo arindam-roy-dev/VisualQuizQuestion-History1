@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which was the Napoleon last battle in which he was captured and exiled to St Helena?",
+"answers":[
+	"Battle of Rivoli",
+	"Battle of Borodino",
+	"Battle of Waterloo",
+	"Battle of Austerlitz"
+	],
+"correctAnswer":1,
+"hints":[
+	"Battle was against British-led allied army and a Prussian army",
+	"It was Sunday, 18 June 1815 in Belgium"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Battle of Waterloo was fought on Sunday, 18 June 1815 near Waterloo in Belgium, part of the United Kingdom of the Netherlands at the time.\nA French army under the command of Napoleon Bonaparte was defeated by two of the armies of the Seventh Coalition: a British-led allied army under the command of the Duke of Wellington, and a Prussian army under the command of Field Marshal Blücher.\nThe battle marked the end of the Napoleonic Wars."
+}

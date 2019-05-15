@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"In which year, First World War began?",
+"answers":[
+	"1914",
+	"1917",
+	"1938",
+	"1939"
+	],
+"correctAnswer":1,
+"hints":[
+	"Second World War lasted from 1939 to 1945"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"World War I, also known as the First World War or the Great War, was a global war originating in Europe that lasted from 28 July 1914 to 11 November 1918."
+}

@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Who was first to reach the South Pole?",
+"answers":[
+	"Robert Falcon Scott",
+	"Frederick Cook",
+	"Roald Amundsen",
+	"Robert E. Peary"
+	],
+"correctAnswer":1,
+"hints":[
+	"He and four others arrived at the pole on 14 December 1911",
+	"American explorers Frederick Cook and Robert E. Peary were first who reached the North Pole"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The first expedition to reach the geographic South Pole was led by the Norwegian explorer Roald Amundsen. He and four others arrived at the pole on 14 December 1911, five weeks ahead of a British party led by Robert Falcon Scott as part of the Terra Nova Expedition.\nAmundsen and his team returned safely to their base, and later heard that Scott and his four companions had died on their return journey.\nAmundsen made his Antarctic base, which he named \"Framheim\", in the Bay of Whales on the Great Ice Barrier. After months of preparation, depot-laying and a false start that ended in near-disaster, he and his party set out for the pole in October 1911."
+}
