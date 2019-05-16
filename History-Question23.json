@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Who organized another communist guerrilla movement Viet Cong in South Vietnam?",
+"answers":[
+	"Pol Pot",
+	"Ho Chi Minh",
+	"Zhou Enlai",
+	"Ngo Dinh Diem"
+	],
+"correctAnswer":2,
+"hints":[
+	"Saigon City was renamed by his name, in honour of his vast contributions to Vietnam",
+	"Zhou Enlai was the first Premier of the People's Republic of China",
+	"Pol Pot was a Cambodian revolutionary and politician"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Ho Chi Minh was a Vietnamese revolutionary leader following the path of communism.\nHe left his country on a French steamer in 1911 and traveled extensively around the world participating actively in the Communist International before returning to Vietnam in 1941. He then organized and led the Việt Minh to fight for Vietnamese Independence.\nHo Chi Minh was the key figure and held the main leadership of North Vietnam during both wars in the country. He remained as a great source of inspiration for the Vietnamese who were fighting for a united Vietnam as in his wish after he officially stepped aside in 1965 and even after his death in 1969.\nThe final offensive against Saigon – the capital of South Vietnam in 1975 was named after him (the Ho Chi Minh Campaign). Vietnam was reunified under the Communist rule after the fall of Saigon in April 1975, nearly 30 years after Ho\'s declaration of independence and 6 years after his death.\nSoon after that, Saigon was renamed Ho Chi Minh city in honour of his vast contributions to Vietnam."
+}

@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"The American Civil War saw the end of",
+"answers":[
+	"Slavery",
+	"Landlordism",
+	"Monarchy",
+	"Apartheid"
+	],
+"correctAnswer":1,
+"hints":[
+	"The Civil War began primarily as a result of the long-standing controversy over the enslavement of black people"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"The American Civil War was a civil war fought in the United States from 1861 to 1865, between the North and the South.\nThe Civil War began primarily as a result of the long-standing controversy over the enslavement of black people.\nWar broke out in April 1861 when secessionist forces attacked Fort Sumter in South Carolina shortly after Abraham Lincoln had been inaugurated as the President of the United States.\nThe loyalists of the Union in the North proclaimed support for the Constitution. They faced secessionists of the Confederate States in the South, who advocated for states\' rights to uphold slavery. Slavery was abolished, and four million black slaves were freed. Civil rights were granted to freed black slaves through amendments to the Constitution and federal legislation."
+}

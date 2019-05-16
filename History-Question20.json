@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Sculpture?",
+"answers":[
+	"Pietà",
+	"Statue of Liberty",
+	"Winged Victory of Samothrace",
+	"Apollo Citharoedus"
+	],
+"correctAnswer":2,
+"hints":[
+	"This is a colossal neoclassical sculpture on Liberty Island in New York",
+	"It is a gift from the people of France to the people of the United States",
+	"It is a figure of Libertas, a robed Roman liberty goddess"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor in New York, in the United States.\nThe copper statue, a gift from the people of France to the people of the United States, was designed by French sculptor Frédéric Auguste Bartholdi and its metal framework was built by Gustave Eiffel. The statue was dedicated on October 28, 1886.\nThe Statue of Liberty is a figure of Libertas, a robed Roman liberty goddess. She holds a torch above her head with her right hand, and in her left hand carries a tabula ansata inscribed in Roman numerals with \"JULY IV MDCCLXXVI\" (July 4, 1776), the date of the U.S. Declaration of Independence."
+}
