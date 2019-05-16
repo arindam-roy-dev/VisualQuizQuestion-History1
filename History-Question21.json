@@ -1,19 +1,19 @@
 {
 "app":"Visual Quiz",
-"question":"The American Civil War saw the end of",
+"question":"Which Country is called \"Gift of the Nile\"?",
 "answers":[
-	"Slavery",
-	"Landlordism",
-	"Monarchy",
-	"Apartheid"
+	"Ethiopia",
+	"Iraq",
+	"Egypt",
+	"Tanzania"
 	],
-"correctAnswer":1,
+"correctAnswer":3,
 "hints":[
-	"The Civil War began primarily as a result of the long-standing controversy over the enslavement of black people"
+	"The Greek historian Herodotus called this Country the \"gift of the Nile\""
 	],
 "earn":{
 	"hints":1,
-	"hideAnswers":2
+	"hideAnswers":1
 	},
-"aboutAnswer":"The American Civil War was a civil war fought in the United States from 1861 to 1865, between the North and the South.\nThe Civil War began primarily as a result of the long-standing controversy over the enslavement of black people.\nWar broke out in April 1861 when secessionist forces attacked Fort Sumter in South Carolina shortly after Abraham Lincoln had been inaugurated as the President of the United States.\nThe loyalists of the Union in the North proclaimed support for the Constitution. They faced secessionists of the Confederate States in the South, who advocated for states\' rights to uphold slavery. Slavery was abolished, and four million black slaves were freed. Civil rights were granted to freed black slaves through amendments to the Constitution and federal legislation."
+"aboutAnswer":"The Greek historian Herodotus called Egypt the \"gift of the Nile\", since the kingdom owed its survival to the annual flooding of the Nile and the resulting depositing of fertile silt. The Nile River flows into the Mediterranean Sea, and there is a delta at the mouth."
 }
