@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this English poet?",
+"answers":[
+	"Oscar Wilde",
+	"John Milton",
+	"William Shakespeare",
+	"Charles Dickens"
+	],
+"correctAnswer":3,
+"hints":[
+	"He is often called England\'s national poet and the \"Bard of Avon\"",
+	"Oscar Wilde was an Irish poet",
+	"He wrote Hamlet, Othello, King Lear, and Macbeth"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":2
+	},
+"aboutAnswer":"William Shakespeare (26 April 1564 – 23 April 1616) was an English poet, playwright and actor, widely regarded as the greatest writer in the English language and the world\'s greatest dramatist.\nHe is often called England\'s national poet and the \"Bard of Avon\".\nHis extant works, including collaborations, consist of approximately 39 plays, 154 sonnets, two long narrative poems, and a few other verses, some of uncertain authorship.\nShakespeare was born and raised in Stratford-upon-Avon, Warwickshire. At the age of 18, he married Anne Hathaway, with whom he had three children: Susanna and twins Hamnet and Judith. Sometime between 1585 and 1592, he began a successful career in London as an actor, writer, and part-owner of a playing company called the Lord Chamberlain\'s Men, later known as the King\'s Men. At age 49 (around 1613), he appears to have retired to Stratford, where he died three years later.\nShakespeare produced most of his known works between 1589 and 1613. Until about 1608, he wrote mainly tragedies, among them Hamlet, Othello, King Lear, and Macbeth, all considered to be among the finest works in the English language. In the last phase of his life, he wrote tragicomedies (also known as romances) and collaborated with other playwrights."
+}

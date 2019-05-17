@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Who was the first Roman Emperor?",
+"answers":[
+	"Tiberius",
+	"Augustus",
+	"Marcus Aurelius",
+	"Caligula"
+	],
+"correctAnswer":2,
+"hints":[
+	"Marcus Aurelius was the last of the rulers traditionally known as the Five Good Emperors",
+	"Caligula was Roman emperor after Tiberius",
+	"Tiberius was the second Roman emperor succeeding Augustus"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Augustus (23 September 63 BC – 19 August AD 14) was a Roman statesman and military leader who was the first emperor of the Roman Empire, reigning from 27 BC until his death in AD 14.\nHis status as the founder of the Roman Principate has consolidated an enduring legacy as one of the most effective and controversial leaders in human history. The reign of Augustus initiated an era of relative peace known as the Pax Romana.\nAugustus dramatically enlarged the Empire, annexing Egypt, Dalmatia, Pannonia, Noricum, and Raetia, expanding possessions in Africa, and completing the conquest of Hispania, but suffered a major setback in Germania. Beyond the frontiers, he secured the Empire with a buffer region of client states and made peace with the Parthian Empire through diplomacy.\nHe reformed the Roman system of taxation, developed networks of roads with an official courier system, established a standing army, established the Praetorian Guard, created official police and fire-fighting services for Rome, and rebuilt much of the city during his reign.\nAugustus died in AD 14 at the age of 75, probably from natural causes. However, there were unconfirmed rumors that his wife Livia poisoned him. He was succeeded as emperor by his adopted son (also stepson and former son-in-law) Tiberius."
+}
