@@ -1,0 +1,19 @@
+{
+"app":"Visual Quiz",
+"question":"The European renaissance started from which country?",
+"answers":[
+	"Italy",
+	"France",
+	"Portugal",
+	"Spain"
+	],
+"correctAnswer":1,
+"hints":[
+	"The Renaissance began in the 14th century in Florence City"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":2
+	},
+"aboutAnswer":"The Renaissance is a period in European history, covering the span between the 14th and 17th centuries and marking the transition from the Middle Ages to modernity.\nThe Renaissance began in the 14th century in Florence, Italy. The Medici and the migration of Greek scholars and their texts to Italy following the Fall of Constantinople to the Ottoman Turks. Other major centres were northern Italian city-states such as Venice, Genoa, Milan, Bologna, and finally Rome during the Renaissance Papacy.\nThen it spread rapidly from its birthplace in Florence to the rest of Italy and soon to the rest of Europe."
+}

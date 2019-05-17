@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Who was the first Western explorer to reach China?",
+"answers":[
+	"Ferdinand Magellan",
+	"James Cook",
+	"Marco Polo",
+	"Sir Francis Drake"
+	],
+"correctAnswer":3,
+"hints":[
+	"Italian explorer visited China in about 1271",
+	"Ferdinand Magellan was a Portuguese explorer, Captain James Cook was a British explorer"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"It was long believed that the first Western explorer to reach chine was Marco Polo (1254-1324) who visited China in about 1271.\nMarco Polo was an Italian merchant, explorer, and writer, born in the Republic of Venice.\nHis travels are recorded in Livre des merveilles du monde (Book of the Marvels of the World, also known as The Travels of Marco Polo, c. 1300), a book that described to Europeans the wealth and great size of China, its capital Peking, and other Asian cities and countries.\nMarco Polo was the first to leave a detailed chronicle of his experience. This book inspired Christopher Columbus and many other travellers. There is a substantial literature based on Polo\'s writings; he also influenced European cartography, leading to the introduction of the Fra Mauro map."
+}

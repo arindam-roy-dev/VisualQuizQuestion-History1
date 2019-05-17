@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Palace?",
+"answers":[
+	"Alhambra Palace, Spain",
+	"Taj Mahal, India",
+	"Potala Palace, Tibet",
+	"Acropolis of Athens"
+	],
+"correctAnswer":3,
+"hints":[
+	"It is the residence of the Dalai Lama until the 14th Dalai Lama fled to India during the 1959 Chinese invasion",
+	"The 5th Dalai Lama started its construction in 1645"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Potala Palace in Lhasa, Tibet Autonomous Region, China was the residence of the Dalai Lama until the 14th Dalai Lama fled to India during the 1959 Chinese invasion.\nIt is now a museum and World Heritage Site.\nThe palace is named after Mount Potalaka. The 5th Dalai Lama started its construction in 1645, after one of his spiritual advisers, Konchog Chophel (died 1646), pointed out that the site was ideal as a seat of government, situated as it is between Drepung and Sera monasteries and the old city of Lhasa."
+}
