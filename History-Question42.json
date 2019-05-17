@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this monument?",
+"answers":[
+	"Tikal, Guatemala",
+	"Parthenon, Greece",
+	"Chichen Itza, Mexico",
+	"Taj Mahal, India"
+	],
+"correctAnswer":4,
+"hints":[
+	"It was commissioned in 1632 by the Mughal emperor, Shah Jahan, to house the tomb of his favourite wife, Mumtaz",
+	"Best example of Mughal architecture and a symbol of India\'s rich history"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Taj Mahal is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra.\nIt was commissioned in 1632 by the Mughal emperor, Shah Jahan (reigned from 1628 to 1658), to house the tomb of his favourite wife, Mumtaz Mahal. It also houses the tomb of Shah Jahan, the builder.\nConstruction of the mausoleum was essentially completed in 1643 but work continued on other phases of the project for another 10 years. Construction started in 1632, and the mausoleum was completed in 1643, while the surrounding buildings and garden were finished five years later.\nIt is regarded by many as the best example of Mughal architecture and a symbol of India\'s rich history."
+}

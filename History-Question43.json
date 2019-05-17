@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Alexander the Great was a king of which Kingdom?",
+"answers":[
+	"Macedonia, Greece",
+	"Ptolemaic Kingdom, Egypt",
+	"Odrysian Kingdom, Bulgaria",
+	"Visigothic Kingdom, Peninsula"
+	],
+"correctAnswer":1,
+"hints":[
+	"Before the 4th century BC, It was a small kingdom outside of the area dominated by the great city-states of Athens, Sparta and Thebes, and briefly subordinate to Achaemenid Persia",
+	"Philip II defeated the old powers of Athens and Thebes in the Battle of Chaeronea in 338 BC"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Alexander III of Macedon, commonly known as Alexander the Great, was a king of the ancient Greek kingdom of Macedonia.\nHe was born in Pella in 356 BC and succeeded his father Philip II to the throne at the age of 20.\nHe spent most of his ruling years on an unprecedented military campaign through Asia and northeast Africa, and by the age of thirty he had created one of the largest empires of the ancient world, stretching from Greece to northwestern India.\nBefore the 4th century BC, Macedonia was a small kingdom outside of the area dominated by the great city-states of Athens, Sparta and Thebes, and briefly subordinate to Achaemenid Persia. During the reign of the Argead king Philip II (359–336 BC), Macedonia subdued mainland Greece and Thrace through conquest and diplomacy.\nWith a reformed army containing phalanxes wielding the sarissa pike, Philip II defeated the old powers of Athens and Thebes in the Battle of Chaeronea in 338 BC. Philip II\'s son Alexander the Great, leading a federation of Greek states, accomplished his father\'s objective of commanding the whole of Greece when he destroyed Thebes after the city revolted.\nDuring Alexander\'s subsequent campaign of conquest, he overthrew the Achaemenid Empire and conquered territory that stretched as far as the Indus River."
+}

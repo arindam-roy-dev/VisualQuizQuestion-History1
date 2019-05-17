@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Which country has always remained free from foreign rule?",
+"answers":[
+	"Phillipines",
+	"USA",
+	"Egypt",
+	"Nepal"
+	],
+"correctAnswer":3,
+"hints":[
+	"It is located mainly in the Himalayas",
+	"Formed an alliance with the British Empire",
+	"Served as a buffer state between Imperial China and British India"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Nepal is a landlocked country in South Asia. It is located mainly in the Himalayas, but also includes parts of the Indo-Gangetic Plain.\nBy the 18th century, the Gorkha Kingdom achieved the unification of Nepal. The Shah dynasty established the Kingdom of Nepal and later formed an alliance with the British Empire, under its Rajput Rana dynasty of premiers.\nThe country was never colonized but served as a buffer state between Imperial China and British India.\nParliamentary democracy was introduced in 1951, but was twice suspended by Nepalese monarchs, in 1960 and 2005. The Nepalese Civil War in the 1990s and early 2000s resulted in the proclamation of a secular republic in 2008, ending the world\'s last Hindu monarchy."
+}

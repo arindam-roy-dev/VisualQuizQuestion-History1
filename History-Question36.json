@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What was the name of the Atom Bomb dropped by USA on Hiroshima in Japan, during World War II?",
+"answers":[
+	"Fat Man",
+	"Big Boy",
+	"Little Boy",
+	"Little Devil"
+	],
+"correctAnswer":3,
+"hints":[
+	"After Hiroshima, on August 9, a plutonium implosion (named \"Fat Man\") bomb was dropped on Nagasaki",
+	"Development of another Atom Bomb named \"Thin Man\" was unsuccessful"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Little Boy was the code name for the type of atomic bomb dropped on the Japanese city of Hiroshima on 6 August 1945 during World War II. It was the first nuclear weapon used in warfare.\nThe bomb was dropped by the Boeing B-29 Superfortress Enola Gay.\nIt exploded with an energy of approximately 15 kilotons of TNT (63 TJ) and caused widespread death and destruction throughout the city. The Hiroshima bombing was the second nuclear explosion in history, after the Trinity test, and the first uranium-based detonation.\nLittle Boy was developed by Lieutenant Commander Francis Birch\'s group at the Manhattan Project\'s Los Alamos Laboratory during World War II, a development of the unsuccessful Thin Man nuclear bomb.\nLike Thin Man, it was a gun-type fission weapon, but it derived its explosive power from the nuclear fission of uranium-235, whereas Thin Man was based on fission of plutonium-239.\nFission was accomplished by shooting a hollow cylinder of enriched uranium (the \"bullet\") onto a solid cylinder of the same material (the \"target\") by means of a charge of nitrocellulose propellant powder. It contained 64 kg (141 lb) of enriched uranium, although less than a kilogram underwent nuclear fission.\nIt\'s components were fabricated at three different plants so that no one would have a copy of the complete design."
+}

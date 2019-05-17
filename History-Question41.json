@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which of the following countries was associated with Khmer Rouge?",
+"answers":[
+	"Vietnam",
+	"Combodia",
+	"China",
+	"India"
+	],
+"correctAnswer":2,
+"hints":[
+	"It was supported by the North Vietnamese army, the Viet Cong and the Pathet Lao",
+	"It was led by Pol Pot, Nuon Chea, Ieng Sary, Son Sen and Khieu Samphan"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Khmer Rouge was the name popularly given to the followers of the Communist Party of Kampuchea (CPK).\nThe Khmer Rouge army was slowly built up in the jungles of Eastern Cambodia during the late 1960s, supported by the North Vietnamese army, the Viet Cong and the Pathet Lao.\nDespite a massive American bombing campaign against them, the Khmer Rouge won the Cambodian Civil War when in 1975 they captured the Cambodian capital and overthrew the government of the Khmer Republic.\nFollowing their victory, the Khmer Rouge led by Pol Pot, Nuon Chea, Ieng Sary, Son Sen and Khieu Samphan renamed the country as Democratic Kampuchea and immediately set about forcibly evacuating the country\'s major cities.\nThe regime murdered hundreds of thousands of their perceived political opponents. Ultimately, the Cambodian genocide led to the deaths of 1.5 to 3 million people, around 25% of Cambodia\'s population."
+}

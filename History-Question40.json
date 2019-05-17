@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which US President was forced to resign due to the Watergate scandal?",
+"answers":[
+	"Richard Nixon",
+	"John F. Kennedy",
+	"Franklin D. Roosevelt",
+	"Jimmy Carter"
+	],
+"correctAnswer":1,
+"hints":[
+	"It was a major political scandal that occurred in the United States during 1972 to 1974",
+	"He was 37th President of the United States"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Watergate scandal was a major political scandal that occurred in the United States during 1972 to 1974.\nThe term Watergate, by metonymy, has come to encompass an array of clandestine and often illegal activities undertaken by members of the Nixon administration. Those activities included such dirty tricks as bugging the offices of political opponents and people of whom Nixon or his officials were suspicious. Nixon and his close aides also ordered investigations of activist groups and political figures, using the Federal Bureau of Investigation (FBI), the Central Intelligence Agency (CIA), and the Internal Revenue Service (IRS) as political weapons.\nThe scandal led to the discovery of multiple abuses of power by members of the Nixon administration, the commencement of an impeachment process against the president, and Nixon\'s resignation. The scandal also resulted in the indictment of 69 people, with trials or pleas resulting in 48 being found guilty, many of whom were top Nixon officials."
+}

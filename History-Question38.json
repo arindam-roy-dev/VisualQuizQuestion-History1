@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of Russian revolutionary who founded the Communist Party?",
+"answers":[
+	"Karl Marx",
+	"Stalin",
+	"Lenin",
+	"Ho Chi Minh"
+	],
+"correctAnswer":3,
+"hints":[
+	"He served as head of government of Soviet Russia from 1917 to 1922",
+	"His ideas were posthumously codified as Marxism–Leninism"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Vladimir Ilyich Ulyanov (22 April 1870 – 21 January 1924), better known by his alias Lenin, was a Russian revolutionary, politician, and political theorist.\nHe served as head of government of Soviet Russia from 1917 to 1922 and of the Soviet Union from 1922 to 1924.\nUnder his administration, Russia and then the wider Soviet Union became a one-party communist state governed by the Russian Communist Party. Ideologically a communist, he developed a variant of Marxism known as Leninism; his ideas were posthumously codified as Marxism–Leninism."
+}

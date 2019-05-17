@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which was the first locomotive railway to carry passengers?",
+"answers":[
+	"Liverpool to Astley",
+	"Manchester to London",
+	"London to Astley",
+	"Liverpool to Manchester"
+	],
+"correctAnswer":4,
+"hints":[
+	"Opened on 15 September 1830 from the Lancashire towns of Liverpool",
+	"Othre terminal station was fixed at Liverpool Road in the heart of Castlefield"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Liverpool and Manchester Railway was a railway opened on 15 September 1830 between the Lancashire towns of Liverpool and Manchester in England.\nIt was the first railway to rely exclusively on locomotives driven by steam power, with no horse-drawn traffic permitted at any time. The first to be entirely double track throughout its length; the first to have a signalling system; the first to be fully timetabled; and the first to carry mail.\nThe railway was primarily built to provide faster transport of raw materials, finished goods and passengers between the Port of Liverpool and mills in Manchester and surrounding towns.\nThe railway was a financial success, paying investors an average annual dividend of 9.5% over the 15 years of its independent existence: a level of profitability that would never again be attained by a British railway company."
+}
