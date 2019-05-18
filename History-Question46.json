@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Which King was executed by Guillotine during French Revolution in 1793?",
+"answers":[
+	"Louis XV (Louis the Beloved)",
+	"Louis XVI (Louis Auguste)",
+	"Louis XVII (Louis Charles)",
+	"Louis Joseph"
+	],
+"correctAnswer":2,
+"hints":[
+	"He was the last King of France before the fall of the monarchy during the French Revolution",
+	"His predecessor was Louis XV",
+	"His successor was Louis XVII"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Louis XVI (23 August 1754 – 21 January 1793), born Louis-Auguste, was the last King of France before the fall of the monarchy during the French Revolution. He was referred to as Citizen Louis Capet during the four months before he was guillotined.\nIn 1765, at the death of his father, Louis, son and heir apparent of Louis XV, Louis-Auguste became the new Dauphin of France. Upon his grandfather\'s death on 10 May 1774, he assumed the title \"King of France and Navarre\", which he used until 4 September 1791, when he received the title of \"King of the French\" until the monarchy was abolished on 21 September 1792.\nThe first part of his reign was marked by attempts to reform the French government in accordance with Enlightenment ideas. These included efforts to abolish serfdom, remove the taille (land tax) and the corvée (labour tax), and increase tolerance toward non-Catholics as well as abolish the death penalty for deserters.\nIn a context of civil and international war, Louis XVI was suspended and arrested at the time of the Insurrection of 10 August 1792; one month later, the absolute monarchy was abolished; the First French Republic was proclaimed on 21 September 1792. He was tried by the National Convention (self-instituted as a tribunal for the occasion), found guilty of high treason, and executed by guillotine on 21 January 1793."
+}

@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Cathedral?",
+"answers":[
+	"Saint Basil\'s Cathedral, Moscow",
+	"Notre-Dame Cathedral, Paris",
+	"Cologne Cathedral, Germany",
+	"Milan Cathedral, Italy"
+	],
+"correctAnswer":1,
+"hints":[
+	"It was built from 1555 to 1561 on orders from Ivan the Terrible and commemorates the capture of Kazan and Astrakhan",
+	"One of the most recognizable symbols of the Russia",
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Cathedral of Vasily the Blessed, commonly known as Saint Basil\'s Cathedral, is a church in Red Square in Moscow, Russia and is one of the most recognizable symbols of the country.\nIt was built from 1555 to 1561 on orders from Ivan the Terrible and commemorates the capture of Kazan and Astrakhan. It was the city\'s tallest building until the completion of the Ivan the Great Bell Tower in 1600.\nThe original building, known as Trinity Church and later Trinity Cathedral, contained eight churches arranged around a ninth, central church of Intercession; a tenth church was erected in 1588 over the grave of venerated local saint Vasily (Basil)."
+}

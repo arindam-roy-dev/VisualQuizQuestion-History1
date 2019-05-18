@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Paper was invented in which Country?",
+"answers":[
+	"Egypt",
+	"India",
+	"China",
+	"Peru"
+	],
+"correctAnswer":3,
+"hints":[
+	"The first papermaking process was documented during the Eastern Han period (25–220 CE)",
+	"Papyrus and amate existed in the Mediterranean world and pre-Columbian Americas, respectively, these materials are not defined as true paper",
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The first papermaking process was documented in China during the Eastern Han period (25–220 CE), traditionally attributed to the court official Cai Lun.\nDuring the 8th century, Chinese papermaking spread to the Islamic world, where pulp mills and paper mills were used for papermaking and money making. By the 11th century, papermaking was brought to Europe.\nBy the 13th century, papermaking was refined with paper mills utilizing waterwheels in Spain. Later European improvements to the papermaking process came in the 19th century with the invention of wood-based papers.\nAlthough precursors such as papyrus and amate existed in the Mediterranean world and pre-Columbian Americas, respectively, these materials are not defined as true paper."
+}

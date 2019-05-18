@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"The Inca civilization was raised in which country?",
+"answers":[
+	"Colombia",
+	"Peru",
+	"Egypt",
+	"Greece"
+	],
+"correctAnswer":2,
+"hints":[
+	"It was pre-Columbian America",
+	"Inca used conquest and peaceful assimilation to incorporate large portion of western South America"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Incas were most notable for establishing the Inca Empire in pre-Columbian America, which was centered in what is now Peru from 1438 to 1533, and represented the height of the Inca civilization.\nOver the course of the Inca Empire, the Inca used conquest and peaceful assimilation to incorporate the territory of modern-day Peru, followed by a large portion of western South America, into their empire, centered on the Andean mountain range.\nHowever, shortly after the Inca Civil War, the last Sapa Inca (emperor) of the Inca Empire was captured and killed on the orders of the conquistador Francisco Pizarro, marking the beginning of Spanish rule. The remnants of the empire retreated to the remote jungles of Vilcabamba and established the small Neo-Inca State, which was conquered by the Spanish in 1572."
+}

@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is Chernobyl disaster?",
+"answers":[
+	"Nuclear Accident",
+	"War between Russia and France",
+	"Fall of Monarchy due to French Revolution",
+	"Vietnam War Against America"
+	],
+"correctAnswer":1,
+"hints":[
+	"The accident occurred during a late-night safety test which simulated a station blackout power-failure",
+	"It is one of only two energy accidents classified as a level 7 event"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Chernobyl disaster, was a catastrophic nuclear accident that occurred on 25–26 April 1986 in the No. 4 nuclear reactor of the Chernobyl Nuclear Power Plant, near the now-abandoned city of Pripyat, in northern Ukrainian SSR.\nThe accident occurred during a late-night safety test which simulated a station blackout power-failure, in the course of which both emergency safety and power-regulating systems were intentionally turned off.\nA combination of inherent reactor design flaws as well as reactor operators arranging the core in a manner contrary to the checklist for the test eventually resulted in uncontrolled reaction conditions. Water flashed into steam generating a destructive steam explosion and a subsequent open-air graphite fire. The lofted plumes of fission products released into the atmosphere by the fire precipitated onto western Europe and parts of the USSR.\nThe Chernobyl accident is considered the most disastrous nuclear power plant accident in history, both in terms of cost and casualties. It is one of only two nuclear energy accidents classified as a level 7 event (the maximum classification) on the International Nuclear Event Scale, the other being the Fukushima disaster in Japan in 2011."
+}
