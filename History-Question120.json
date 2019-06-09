@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Who was the God of Thunder and Lightning and War and Strength, in Germanic mythology?",
+"answers":[
+	"Thor",
+	"Odin",
+	"Balder",
+	"Hel"
+	],
+"correctAnswer":1,
+"hints":[
+	"Odin was Chief God, ruler of the universe, and wisest of the gods",
+	"Balder was God of beauty, radiance, light, peace, and wisdom",
+	"Hel was Norse goddess of death, queen of Niflheim, the mist-covered region of the underworld"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"In Germanic mythology, Thor is a hammer-wielding god associated with thunder, lightning, storms, oak trees, strength, the protection of mankind and also hallowing and fertility.\nThor is a prominently mentioned god throughout the recorded history of the Germanic peoples, from the Roman occupation of regions of Germania, to the tribal expansions of the Migration Period, to his high popularity during the Viking Age, when, in the face of the process of the Christianization of Scandinavia, emblems of his hammer, Mjölnir, were worn and Norse pagan personal names containing the name of the god bear witness to his popularity."
+}
