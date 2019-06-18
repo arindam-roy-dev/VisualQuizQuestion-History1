@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Rivers Tigris and Euphrates are associated with?",
+"answers":[
+	"Mesopotamian Civilization",
+	"Egyptian Civilization",
+	"Harappan Civilization",
+	"Chinese Civilization"
+	],
+"correctAnswer":1,
+"hints":[
+	"It\'s a major river system in Western Asia",
+	"The Sumerians and Akkadians (including Assyrians and Babylonians) dominated the Civilization"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Tigris and Euphrates, with their tributaries, form a major river system in Western Asia. From sources originating in eastern Turkey, they flow by/through Syria through Iraq into the Persian Gulf. The system is part of the Palearctic Tigris–Euphrates ecoregion, which includes Iraq and parts of Turkey, Syria, Iran, Saudi Arabia, Kuwait, and Jordan.\nThe ecoregion is characterized by two large rivers, the Tigris and Euphrates. The rivers have several small tributaries which feed into the system from shallow freshwater lakes, swamps, and marshes, all surrounded by desert. The hydrology of these vast marshes is extremely important to the ecology of the entire upper Persian Gulf. Historically, the area is known as Mesopotamia.\nThe Sumerians and Akkadians (including Assyrians and Babylonians) dominated Mesopotamia from the beginning of written history (c. 3100 BC) to the fall of Babylon in 539 BC, when it was conquered by the Achaemenid Empire. It fell to Alexander the Great in 332 BC, and after his death, it became part of the Greek Seleucid Empire."
+}
