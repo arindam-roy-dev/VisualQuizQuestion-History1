@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Young Italy movement by led by two revolutionaries, one was \"Mazzini\" and Other was?",
+"answers":[
+	"Louis",
+	"Victor",
+	"Emmanuel",
+	"Garibaldi"
+	],
+"correctAnswer":4,
+"hints":[
+	"He joined the movement around 1833, after meeting Mazzini through social and political reforms back in Geneva",
+	"He was sentenced to death"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Young Italy (Italian: La Giovine Italia) was a political movement for Italian youth (under age 40) founded in 1831 by Giuseppe Mazzini.\nAfter a few months of leaving Italy, in June 1831, Mazzini wrote a letter to King Charles Albert of Sardinia, in which he asked him to unite Italy and lead the nation. A month later, convinced that his demands did not reach the king, he founded the movement in Marseille. It would then spread out to other nations across Europe.\nThe movement\'s goal was to create a united Italian republic through promoting a general insurrection in the Italian reactionary states and in the lands occupied by the Austrian Empire. Mazzini\'s belief was that a popular uprising would create a unified Italy. The slogan that defined the movement\'s aim was: \"Union, Strength, and Liberty\". The phrase could be found in the tricolor Italian flag, which represented the country\'s unity.\nThe most famous member of Young Italy was Giuseppe Garibaldi (1807-1882). He joined the movement around 1833, after meeting Mazzini through social and political reforms back in Geneva. Additionally, he was part of a failed revolt led by Mazzini in Piedmont. As a consequence, he was sentenced to death. After learning his fate, Garibaldi fled to Marseilles."
+}

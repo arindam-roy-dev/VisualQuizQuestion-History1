@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"Who is known as the father of Modern Medicine?",
+"answers":[
+	"Hippocrates",
+	"Euclid",
+	"Eratosthenes",
+	"Pythagoras"
+	],
+"correctAnswer":1,
+"hints":[
+	"He was a Greek physician of the Age of Pericles (Classical Greece)",
+	"Pythagoras was an ancient Ionian Greek philosopher",
+	"Euclid was a Greek mathematician",
+	"Eratosthenes was a Greek mathematician, geographer, poet, astronomer, and music theorist"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Hippocrates of Kos (460 – 370 BC), also known as Hippocrates II, was a Greek physician of the Age of Pericles (Classical Greece), who is considered one of the most outstanding figures in the history of medicine.\nHe is often referred to as the \"Father of Medicine\" in recognition of his lasting contributions to the field as the founder of the Hippocratic School of Medicine. This intellectual school revolutionized medicine in ancient Greece, establishing it as a discipline distinct from other fields with which it had traditionally been associated (theurgy and philosophy), thus establishing medicine as a profession.\nHowever, the achievements of the writers of the Corpus, the practitioners of Hippocratic medicine and the actions of Hippocrates himself were often commingled; thus very little is known about what Hippocrates actually thought, wrote, and did. Hippocrates is commonly portrayed as the paragon of the ancient physician, and credited with coining the Hippocratic Oath, which is still relevant and in use today.\nHe is also credited with greatly advancing the systematic study of clinical medicine, summing up the medical knowledge of previous schools, and prescribing practices for physicians through the Hippocratic Corpus and other works."
+}

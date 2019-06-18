@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"In which year Pedro Álvares Cabral discovered Brazil?",
+"answers":[
+	"1494",
+	"1500",
+	"1520",
+	"1822"
+	],
+"correctAnswer":2,
+"hints":[
+	"Pedro Álvares Cabral died in 1520",
+	"On September 7, 1822, the country declared its independence from Portugal and it became the Empire of Brazil"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The history of Brazil starts with indigenous people in Brazil. Europeans arrived in Brazil at the opening of the 16th century. The first European to colonize what is now the Federative Republic of Brazil on the continent of South America was Pedro Álvares Cabral (1467/1468-1520) on April 22, 1500 under the sponsorship of the Kingdom of Portugal.\nFrom the 16th to the early 19th century, Brazil was a colony and a part of the Portuguese Empire. The country expanded south along the coast and west along the Amazon and other inland rivers from the original 15 donatary captaincy colonies established on the northeast Atlantic coast east of the Tordesillas Line of 1494 (approximately the 46th meridian west) that divided the Portuguese domain to the east from the Spanish domain to the west. The country\'s borders were only finalized in the early 20th century.\nOn September 7, 1822, the country declared its independence from Portugal and it became the Empire of Brazil. A military coup in 1889 established the First Brazilian Republic. The country has seen two dictatorship periods: the first during Vargas Era (1930–1934 and 1937–1945) and the second during the military rule (1964–1985) under Brazilian military government."
+}
