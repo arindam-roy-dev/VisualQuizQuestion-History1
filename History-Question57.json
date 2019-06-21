@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Temple?",
+"answers":[
+	"Wat Phra Si Sanphet",
+	"Acropolis",
+	"Angkor Wat",
+	"Chichen Itza"
+	],
+"correctAnswer":3,
+"hints":[
+	"A Hindu temple dedicated to the god Vishnu",
+	"It is a temple complex in Cambodia",
+	"It was built by the Khmer King Suryavarman II in the early 12th century"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Angkor Wat is a temple complex in Cambodia and one of the largest religious monuments in the world, on a site measuring 162.6 hectares (1,626,000 m2; 402 acres).\nOriginally constructed as a Hindu temple dedicated to the god Vishnu for the Khmer Empire, it was gradually transformed into a Buddhist temple towards the end of the 12th century. It was built by the Khmer King Suryavarman II in the early 12th century in Yaśodharapura, the capital of the Khmer Empire, as his state temple and eventual mausoleum. Breaking from the Shaiva tradition of previous kings, Angkor Wat was instead dedicated to Vishnu.\nAs the best-preserved temple at the site, it is the only one to have remained a significant religious centre since its foundation. The temple is at the top of the high classical style of Khmer architecture. It has become a symbol of Cambodia, appearing on its national flag, and it is the country\'s prime attraction for visitors.\nAngkor Wat combines two basic plans of Khmer temple architecture: the temple-mountain and the later galleried temple. It is designed to represent Mount Meru, home of the devas in Hindu mythology: within a moat more than 5 kilometres (3 mi) long and an outer wall 3.6 kilometres (2.2 mi) long are three rectangular galleries, each raised above the next.\nAt the centre of the temple stands a quincunx of towers. Unlike most Angkorian temples, Angkor Wat is oriented to the west; scholars are divided as to the significance of this. The temple is admired for the grandeur and harmony of the architecture, its extensive bas-reliefs, and for the numerous devatas adorning its walls."
+}

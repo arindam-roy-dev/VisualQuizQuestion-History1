@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Castle?",
+"answers":[
+	"Warwick Castle",
+	"Windsor Castle",
+	"Reichsburg Cochem",
+	"Citadel of Aleppo"
+	],
+"correctAnswer":2,
+"hints":[
+	"A Royal residence in the English county of Berkshire",
+	"The original castle was built in the 11th century after the Norman invasion of England by William the Conqueror",
+	"It has been used by the reigning monarch and is the longest-occupied palace in Europe"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Windsor Castle is a royal residence at Windsor in the English county of Berkshire. It is notable for its long association with the English and later British royal family and for its architecture.\nThe original castle was built in the 11th century after the Norman invasion of England by William the Conqueror. Since the time of Henry I, it has been used by the reigning monarch and is the longest-occupied palace in Europe. Inside the castle walls is the 15th-century St George\'s Chapel.\nOriginally designed to protect Norman dominance around the outskirts of London and oversee a strategically important part of the River Thames, Windsor Castle was built as a motte-and-bailey, with three wards surrounding a central mound. Gradually replaced with stone fortifications, the castle withstood a prolonged siege during the First Barons\' War at the start of the 13th century. Henry III built a luxurious royal palace within the castle during the middle of the century, and Edward III went further, rebuilding the palace to make an even grander set of buildings. Edward\'s core design lasted through the Tudor period, during which Henry VIII and Elizabeth I made increasing use of the castle as a royal court and centre for diplomatic entertainment.\nWindsor Castle survived the tumultuous period of the English Civil War, when it was used as a military headquarters by Parliamentary forces and a prison for Charles I.\nAt the Restoration of the monarchy in 1660, Charles II rebuilt much of Windsor Castle with the help of the architect Hugh May, creating a set of extravagant Baroque interiors that are still admired. After a period of neglect during the 18th century, George III and George IV renovated and rebuilt Charles II\'s palace at colossal expense, producing the current design of the State Apartments, full of Rococo, Gothic and Baroque furnishings.\nQueen Victoria made a few minor changes to the castle, which became the centre for royal entertainment for much of her reign. Windsor Castle was used as a refuge by the royal family during the Luftwaffe bombing campaigns of the Second World War and survived a fire in 1992.\nIt is a popular tourist attraction, a venue for hosting state visits, and the preferred weekend home of Elizabeth II."
+}
