@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Valley of the Kings is located in which Country?",
+"answers":[
+	"Egypt",
+	"Tanzania",
+	"Italy",
+	"Turkey"
+	],
+"correctAnswer":1,
+"hints":[
+	"The Valley of the Kings is a valley for a period of nearly 500 years from the 16th to 11th century BC",
+	"It was the principal burial place of the major royal figures",
+	"The valley stands on the west bank of the Nile"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Valley of the Kings is a valley in Egypt where, for a period of nearly 500 years from the 16th to 11th century BC, rock cut tombs were excavated for the pharaohs and powerful nobles of the New Kingdom (the Eighteenth to the Twentieth Dynasties of Ancient Egypt).\nThe valley stands on the west bank of the Nile, opposite Thebes (modern Luxor), within the heart of the Theban Necropolis. The wadi consists of two valleys, East Valley (where the majority of the royal tombs are situated) and West Valley.\nWith the 2005 discovery of a new chamber and the 2008 discovery of two further tomb entrances, the valley is known to contain 63 tombs and chambers (ranging in size from KV54, a simple pit, to KV5, a complex tomb with over 120 chambers).\nIt was the principal burial place of the major royal figures of the Egyptian New Kingdom, as well as a number of privileged nobles. The royal tombs are decorated with scenes from Egyptian mythology and give clues as to the beliefs and funerary rituals of the period.\nAlmost all of the tombs seem to have been opened and robbed in antiquity, but they still give an idea of the opulence and power of the pharaohs."
+}

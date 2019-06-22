@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"The war criminals of the Second World War were put to trial in?",
+"answers":[
+	"Peitersburg",
+	"Gettyburg",
+	"Nuremberg",
+	"Peitburg"
+	],
+"correctAnswer":3,
+"hints":[
+	"A series of military tribunals, held after World War II by the Allied forces against Nazi Party officials and high-ranking military officers",
+	"Adolf Hitler and Joseph Goebbels had both committed suicide in the spring of 1945 to avoid capture"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Nuremberg trials were a series of military tribunals, held after World War II by the Allied forces under international law and the laws of war. The trials were most notable for the prosecution of prominent members of the political, military, judicial, and economic leadership of Nazi Germany, who planned, carried out, or otherwise participated in the Holocaust and other war crimes.\nThe trials were held in Nuremberg, Germany, and their decisions marked a turning point between classical and contemporary international law.\nHeld between 20 November 1945 and 1 October 1946, the Tribunal was given the task of trying 24 of the most important political and military leaders of the Third Reich. Martin Bormann had, unknown to the Allies, died in May 1945 and was tried in absentia. Another defendant, Robert Ley, committed suicide within a week of the trial\'s commencement.\nAdolf Hitler and Joseph Goebbels had both committed suicide in the spring of 1945 to avoid capture. Heinrich Himmler attempted to commit suicide, but was captured before he could succeed; he committed suicide one day after being arrested by British forces. Heinrich Müller disappeared the day after Hitler\'s suicide, the most senior figure of the Nazi regime whose fate remains unknown. Reinhard Heydrich had been assassinated by Czech partisans in 1942. Josef Terboven killed himself with dynamite in Norway in 1945. Adolf Eichmann fled to Argentina to avoid capture but was apprehended by Israel's intelligence service (Mossad) and hanged in 1962. Hermann Göring was sentenced to death but, in defiance of his captors, committed suicide by swallowing cyanide the night before his execution."
+}
