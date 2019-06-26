@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"What is the name of this Tower?",
+"answers":[
+	"Eiffel Tower",
+	"Leaning Tower of Pisa",
+	"CN Tower",
+	"Canton Tower"
+	],
+"correctAnswer":2,
+"hints":[
+	"The tower\'s tilt began during construction in the 12th century, due to soft ground on one side",
+	"Located in Italy"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"The Leaning Tower of Pisa or simply the Tower of Pisa is the campanile, or freestanding bell tower, of the cathedral of the Italian city of Pisa, known worldwide for its nearly four-degree lean, the result of an unstable foundation.\nThe tower is situated behind the Pisa Cathedral and is the third oldest structure in the city\'s Cathedral Square (Piazza del Duomo), after the cathedral and the Pisa Baptistry.\nThe tower\'s tilt began during construction in the 12th century, due to soft ground on one side, which was unable to properly support the structure\'s weight. The tilt increased in the decades before the structure was completed in the 14th century. It gradually increased until the structure was stabilized (and the tilt partially corrected) by efforts in the late 20th and early 21st centuries.\nThe tower has 296 or 294 steps; the seventh floor has two fewer steps on the north-facing staircase. In 1990 the tower leaned at an angle of 5.5 degrees, but following remedial work between 1993 and 2001 this was reduced to 3.97 degrees, reducing the overhang by 45 cm at a cost of £200m. It lost a further 4 cm of tilt in the two decades to 2018.\nGalileo Galilei is said to have dropped two cannonballs of different masses from the tower to demonstrate that their speed of descent was independent of their mass. However, the only primary source for this is the biography Racconto istorico della vita di Galileo Galilei (Historical Account of the Life of Galileo Galilei), written by Galileo\'s secretary Vincenzo Viviani and published in 1717, long after Viviani\'s death.\nAt least four strong earthquakes hit the region since 1280, but the apparently vulnerable Tower survived. The reason was not understood until a research group of 16 engineers investigated. The researchers concluded that the Tower was able to withstand the tremors because of dynamic soil-structure interaction (DSSI): the height and stiffness of the Tower together with the softness of the foundation soil influences the vibrational characteristics of the structure in such a way that the Tower does not resonate with earthquake ground motion. The same soft soil that caused the leaning, and brought the Tower to the verge of collapse helped it survive.\nThe tower and the neighbouring cathedral, baptistery, and cemetery are included in the Piazza del Duomo UNESCO World Heritage Site, which was declared in 1987."
+}
