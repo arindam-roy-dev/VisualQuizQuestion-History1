@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"For what was Beau Brummell known?",
+"answers":[
+	"Scientific Research",
+	"Journalism",
+	"Politics",
+	"Fashion"
+	],
+"correctAnswer":4,
+"hints":[
+	"He worked for the mens\'",
+	"His father William Brummell was a politician, but he is not"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":2
+	},
+"aboutAnswer":"George Bryan \"Beau\" Brummell (7 July 1778 – 30 March 1840) was an iconic figure in Regency England and for many years the arbiter of men\'s fashion.\nAt one time he was a close friend of the Prince Regent, the future King George IV, but after the two quarrelled, and Brummell got into debt, he had to take refuge in France. Eventually he died shabby and insane in Caen.\nBrummell was remembered afterwards as the preeminent example of the dandy and a whole literature was founded upon his manner and witty sayings which has persisted to this day. His name is still associated with style and good looks, and it has been given to a variety of modern products to suggest their high quality.\nBrummell was born in London, the younger son of William Brummell, a politician, of Donnington Grove in Berkshire. The family was middle class, but the elder Brummell was ambitious for his son to become a gentleman, and young George was raised with that understanding. Brummell was educated at Eton and made his precocious mark on fashion when he not only modernised the white stock, or cravat, that was the mark of the Eton boy, but added a gold buckle to it.\nHe progressed to Oxford University, where, by his own example, he made cotton stockings and dingy cravats a thing of the past. While an undergraduate at Oriel College in 1793, he competed for the Chancellor\'s Prize for Latin Verse, coming second to Edward Copleston, who was later to become provost of his college. He left the university after only a year, at the age of sixteen."
+}
