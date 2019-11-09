@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"When was Greek civilization flourished?",
+"answers":[
+	"20th century BC",
+	"14th century BC",
+	"8th century BC",
+	"12th century AD"
+	],
+"correctAnswer":3,
+"hints":[
+	"Greek civilization ended in the 6th century AD",
+	"Classical antiquity in Greece was preceded by the Greek Dark Ages (1200 – 800 BC)"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Classical antiquity in the Mediterranean region is commonly considered to have begun in the 8th century BC (around the time of the earliest recorded poetry of Homer) and ended in the 6th century AD.\nClassical antiquity in Greece was preceded by the Greek Dark Ages (c. 1200 – c. 800 BC), archaeologically characterised by the protogeometric and geometric styles of designs on pottery. Following the Dark Ages was the Archaic Period, beginning around the 8th century BC. The Archaic Period saw early developments in Greek culture and society which formed the basis for the Classical Period.\nAfter the Archaic Period, the Classical Period in Greece is conventionally considered to have lasted from the Persian invasion of Greece in 480 until the death of Alexander the Great in 323. The period is characterized by a style which was considered by later observers to be exemplary, i.e., \"classical\", as shown in the Parthenon, for instance.\nPolitically, the Classical Period was dominated by Athens and the Delian League during the 5th century, but displaced by Spartan hegemony during the early 4th century BC, before power shifted to Thebes and the Boeotian League and finally to the League of Corinth led by Macedon. This period saw the Greco-Persian Wars and the Rise of Macedon.\nFollowing the Classical period was the Hellenistic period (323–146 BC), during which Greek culture and power expanded into the Near and Middle East. This period begins with the death of Alexander and ends with the Roman conquest.\nRoman Greece is usually considered to be the period between Roman victory over the Corinthians at the Battle of Corinth in 146 BC and the establishment of Byzantium by Constantine as the capital of the Roman Empire in AD 330.\nFinally, Late Antiquity refers to the period of Christianization during the later 4th to early 6th centuries AD, sometimes taken to be complete with the closure of the Academy of Athens by Justinian I in 529."
+}

@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which City served as the temporary capital of the United States, while Washington, D.C. was under construction?",
+"answers":[
+	"Philadelphia",
+	"Harrisburg",
+	"New York",
+	"Delaware"
+	],
+"correctAnswer":3,
+"hints":[
+	"New York was the capital of the United States from 1785 until 1790, prior to moving the capital to this City.",
+	"The state capital was moved to Lancaster in 1799, then Harrisburg in 1812, while the federal government was moved to Washington, D.C"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Philadelphia served as the temporary capital of the United States while the new capital was under construction in the District of Columbia from 1790 to 1800.\nIn 1793, the largest yellow fever epidemic in U.S. history killed approximately 4,000 to 5,000 people in Philadelphia, or about 10% of the city\'s population.\nThe state capital was moved to Lancaster in 1799, then Harrisburg in 1812, while the federal government was moved to Washington, D.C. in 1800 upon completion of the White House and U.S. Capitol building.\nThe city remained the young nation\'s largest until the late 18th century, being both a financial and a cultural center for America.\nNew York City surpassed Philadelphia in population by 1790. Large-scale construction projects for new roads, canals, and railroads made Philadelphia the first major industrial city in the United States."
+}
