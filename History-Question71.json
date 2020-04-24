@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"This is the symbol of which Empire?",
+"answers":[
+	"Egyptian Empire",
+	"Roman Empire",
+	"Babylonian Empire",
+	"Khmer Empire"
+	],
+"correctAnswer":2,
+"hints":[
+	"Mediterranean Sea in Europe, North Africa and West Asia was ruled by these emperors",
+	"They built amphitheatres – large, circular or oval open-air venues with raised seating",
+	"Julius Caesar was statesman and military general who played a critical role in rise of the Empire"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":1
+	},
+"aboutAnswer":"An aquila (Latin for \"eagle\") was a prominent symbol used in ancient Rome, especially as the standard of a Roman legion. A legionary known as an aquilifer, the \"eagle-bearer\", carried this standard. Each legion carried one eagle.\nThe eagle had a quasi-religious importance to the Roman soldier, far beyond being merely a symbol of his legion. To lose a standard was extremely grave, and the Roman military went to great lengths both to protect a standard and to recover it if it were lost; after the annihilation of three legions in the Teutoburger Forest, the Romans spent decades attempting to recover the three lost eagles.\nNo legionary eagles are known to have survived. However, other Roman eagles, either symbolizing imperial rule or used as funerary emblems, have been discovered."
+}

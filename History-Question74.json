@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"This is an abandoned prison (1934-1963) developed on a small island in USA. What is the name of this island?",
+"answers":[
+	"Robben Island",
+	"Port Arthur",
+	"Goree Island",
+	"Alcatraz Island"
+	],
+"correctAnswer":4,
+"hints":[
+	"Situated on the West Coast of the United States",
+	"Thousands of slaves passed through Goree Island in Senegal before France abolished the slave trade in 1848",
+	"Robben Island is located off the coast of Cape Town, South Africa",
+	"Port Arthur is a former convict colony in Tasmania, Australia, from 1833, until the 1850s"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":2
+	},
+"aboutAnswer":"Alcatraz Island is located in San Francisco Bay, 1.25 miles (2.01 km) offshore from San Francisco, California, United States.\nThe small island was developed with facilities for a lighthouse, a military fortification, a military prison, and a federal prison from 1934 until 21 March 1963.\nThe water currents around the island were high at all times, which presumably decreased the chance of an inmate escaping.\nBeginning in November 1969, the island was occupied for more than 19 months by a group of Native Americans from San Francisco, who were part of a wave of Native American activism across the U.S., with public protests through the 1970s.\nIn 1972, Alcatraz became part of Golden Gate National Recreation Area and received designation as a National Historic Landmark in 1986.\nToday, the island\'s facilities are managed by the National Park Service as part of Golden Gate National Recreation Area; it is open to tours. Visitors can reach the island in a little under 15 minutes by ferry ride from Pier 33, located between the San Francisco Ferry Building and Fisherman's Wharf, San Francisco."
+}

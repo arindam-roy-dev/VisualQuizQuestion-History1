@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"Which fort is this?",
+"answers":[
+	"Malbork Castle, Poland",
+	"Windsor Castle, UK",
+	"Chittor Fort, India",
+	"Jaisalmer fort, India"
+	],
+"correctAnswer":3,
+"hints":[
+	"In 1303, the Turkic ruler of Delhi, Alauddin Khalji defeated Rana Ratan Singh\'s forces at the fort",
+	"One of the largest forts in India"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Chittor Fort or Chittorgarh is one of the largest forts in India. It is a UNESCO World Heritage Site.\nThe fort was the capital of Mewar and is located in the present-day town of Chittor. It sprawls over a hill 180 m (590.6 ft) in height spread over an area of 280 ha (691.9 acres) above the plains of the valley drained by the Berach River. The fort precinct has several historical palaces, gates, temples and two prominent commemorative towers.\nBeginning in the 7th century, the fort was controlled by the Mewar Kingdom. From the 9th to 13th centuries, the fort was ruled by Paramara dynasty.\nIn 1303, the Turkic ruler of Delhi, Alauddin Khalji defeated Rana Ratan Singh\'s forces at the fort.\nIn 1535 Bahadur Shah, the Sultan of Gujarat, defeated Bikramjeet Singh and took the fort.\nIn 1567 Akbar defeated Maharana Udai Singh II\'s troops. The fort\'s defenders sallied forth to charge the attacking enemy but yet were not able to succeed.\nFollowing these defeats, the men committed saka, where they would ritually march to the battlefield expecting certain death; while the women are said to have committed jauhar or mass self-immolation, an example of which was led by Rani Karnavati on 8 March 1535 CE. The rulers, soldiers, noblewomen, and commoners considered death preferable and pillaging that was thought to occur following to surrender to the Sultanate forces."
+}
