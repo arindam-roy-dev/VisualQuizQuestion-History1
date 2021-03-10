@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Who is known for his 'Blood and Iron' speech?",
+"answers":[
+	"Otto von Bismarck",
+	"Leo von Caprivi",
+	"Bernhard von Bülow",
+	"Georg Michaelis"
+	],
+"correctAnswer":1,
+"hints":[
+	"On 30 September 1862, he made a famous speech which is known as 'Blood and Iron' speech",
+	"The speech was made to achieve Prussia\'s goals",
+	"He was the first german chancellor"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Otto von Bismarck, was a conservative German statesman who masterminded the unification of Germany in 1871 and served as its first chancellor until 1890, in which capacity he dominated European affairs for two decades.\nHe had previously been Minister President of Prussia (1862–1890) and Chancellor of the North German Confederation (1867–1871).\nHe provoked three short, decisive wars, against Denmark, Austria, and France. Following the victory against Austria, he abolished the supranational German Confederation and instead formed the North German Confederation as the first German national state, aligning the smaller North German states behind Prussia, and excluding Austria.\nReceiving the support of the independent South German states in the Confederation\'s defeat of France, he formed the German Empire – which also excluded Austria – and united Germany.\nOn 30 September 1862, Bismarck made a famous speech to the Budget Committee of the Prussian Chamber of Deputies in which he expounded on the use of \"iron and blood\" to achieve Prussia\'s goals:\n\"Prussia must concentrate and maintain its power for the favorable moment which has already slipped by several times. Prussia's boundaries according to the Vienna treaties are not favorable to a healthy state life. The great questions of the time will not be resolved by speeches and majority decisions – that was the great mistake of 1848 and 1849 – but by iron and blood.\""
+}

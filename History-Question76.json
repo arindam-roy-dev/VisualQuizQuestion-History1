@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"He was the first German Chancellor?",
+"answers":[
+	"Edward VI",
+	"Bernhard von Bülow",
+	"Otto von Bismarck",
+	"Napoléon Bonaparte"
+	],
+"correctAnswer":3,
+"hints":[
+	"Edward VI was the King of England and Ireland",
+	"Napoléon Bonaparte was a French military and political leader",
+	"He is known for his 'Blood and Iron' speech"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"Otto von Bismarck, was a conservative German statesman who masterminded the unification of Germany in 1871 and served as its first chancellor until 1890, in which capacity he dominated European affairs for two decades.\nHe had previously been Minister President of Prussia (1862–1890) and Chancellor of the North German Confederation (1867–1871).\nHe provoked three short, decisive wars, against Denmark, Austria, and France. Following the victory against Austria, he abolished the supranational German Confederation and instead formed the North German Confederation as the first German national state, aligning the smaller North German states behind Prussia, and excluding Austria.\nReceiving the support of the independent South German states in the Confederation\'s defeat of France, he formed the German Empire – which also excluded Austria – and united Germany.\nWith Prussian dominance accomplished by 1871, Bismarck skillfully used balance of power diplomacy to maintain Germany\'s position in a peaceful Europe."
+}

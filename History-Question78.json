@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"Who was a Comedy-Writer of ancient Athens?",
+"answers":[
+	"Aristotle",
+	"Socrates",
+	"Aristophanes",
+	"El Greco"
+	],
+"correctAnswer":3,
+"hints":[
+	"Also known as \"The Father of Comedy\"",
+	"El Greco, was a Greek painter, sculptor and architect",
+	"Socrates was a Greek philosopher from Athens",
+	"Aristotle was a Greek philosopher"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Aristophanes (446 – 386 BC), son of Philippus, of the deme Kydathenaion, was a comic playwright or comedy-writer of ancient Athens and a poet of Old Attic Comedy.\nEleven of his forty plays survive virtually complete. These provide the most valuable examples of a genre of comic drama known as Old Comedy and are used to define it, along with fragments from dozens of lost plays by Aristophanes and his contemporaries.\nAlso known as \"The Father of Comedy\" and \"the Prince of Ancient Comedy\", Aristophanes has been said to recreate the life of ancient Athens more convincingly than any other author.\nAristophanes\' second play, The Babylonians (now lost), was denounced by Cleon as a slander against the Athenian polis. It is possible that the case was argued in court, but details of the trial are not recorded and Aristophanes caricatured Cleon mercilessly in his subsequent plays, especially The Knights, the first of many plays that he directed himself."
+}
