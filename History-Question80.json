@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"The Opium War held between which two countries?",
+"answers":[
+	"England and France",
+	"China and Russia",
+	"Russia and England",
+	"China and England"
+	],
+"correctAnswer":4,
+"hints":[
+	"Fought in the mid-19th century",
+	"Result of this war was to handover Hong Kong to the winner",
+	"France joined during Second Opium War"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":1
+	},
+"aboutAnswer":"The Opium Wars were two wars waged between Western powers and the Qing dynasty in the mid-19th century. The First Opium War, fought in 1839–1842 between Great Britain and the Qing Dynasty of China, was triggered by the Qing\'s crackdown on British Opium smugglers.\nThe Second Opium War was fought between Britain and France coalition against the Qing in 1856–1860.\nIn each war, the European force\'s modern military technology led to an easy victory over the Qing forces, with the consequence that the government was compelled to grant favorable tariffs, trade concessions, and territory to the Europeans.\nThe wars and the subsequently-imposed treaties weakened the Qing dynasty and Chinese governments, and forced China to open specified treaty ports (especially Shanghai) that handled all trade with imperial powers. In addition China gave the sovereignty over Hong Kong to Britain.\nThe massive Taiping Rebellion and smaller Dungan Revolt had a large negative effect on the economy."
+}
