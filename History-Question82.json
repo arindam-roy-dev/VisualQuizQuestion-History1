@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"Who is this politician?",
+"answers":[
+	"Ernesto Che Guevara",
+	"Fidel Castro",
+	"Mahatma Gandhi",
+	"George Washington"
+	],
+"correctAnswer":2,
+"hints":[
+	"He was a Cuban revolutionary, lawyer, and politician",
+	"He converted Cuba into socialist state under Communist Party rule, the first in the Western Hemisphere",
+	"Mahatma Gandhi was an Indian anti-colonial nationalist and political ethicist",
+	"George Washington was an American military officer, who served as the first president of the United States"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Fidel Alejandro Castro Ruz (13 August 1926 – 25 November 2016) was a Cuban revolutionary, lawyer, and politician who was the leader of Cuba from 1959 to 2008, serving as the prime minister of Cuba from 1959 to 1976 and president from 1976 to 2008.\nIdeologically a Marxist–Leninist and Cuban nationalist, he also served as the first secretary of the Communist Party of Cuba from 1961 until 2011.\nUnder his administration, Cuba became a one-party communist state; industry and business were nationalized, and state socialist reforms were implemented throughout society.\nAdopting a Marxist–Leninist model of development, Castro converted Cuba into a one-party, socialist state under Communist Party rule, the first in the Western Hemisphere.\nPolicies introducing central economic planning and expanding healthcare and education were accompanied by state control of the press and the suppression of internal dissent.\nAbroad, Castro supported anti-imperialist revolutionary groups, backing the establishment of Marxist governments in Chile, Nicaragua, and Grenada, as well as sending troops to aid allies in the Yom Kippur, Ogaden, and Angolan Civil War.\nThese actions, coupled with Castro\'s leadership of the Non-Aligned Movement from 1979 to 1983 and Cuba\'s medical internationalism, increased Cuba\'s profile on the world stage.\nFollowing the Soviet Union\'s dissolution in 1991, Castro led Cuba through the economic downturn of the \"Special Period\", embracing environmentalist and anti-globalization ideas.\nIn the 2000s, Castro forged alliances in the Latin American \"pink tide\" – namely with Hugo Chávez\'s Venezuela – and formed the Bolivarian Alliance for the Americas.\nIn 2006, Castro transferred his responsibilities to Vice President Raúl Castro, who was elected to the presidency by the National Assembly in 2008."
+}

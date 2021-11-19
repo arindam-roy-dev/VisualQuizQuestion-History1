@@ -1,0 +1,20 @@
+{
+"app":"Visual Quiz",
+"question":"In which year Julian calendar, which is a reform of the Roman calendar, was started?",
+"answers":[
+	"100 BC",
+	"94 BC",
+	"46 BC",
+	"1582 AD"
+	],
+"correctAnswer":3,
+"hints":[
+	"The calendar became the predominant calendar in the Roman Empire until 1582, when Pope Gregory XIII introduced Gregorian calendar",
+	"The Julian calendar, proposed by Julius Caesar who was born on 12 July 100 BC"
+	],
+"earn":{
+	"hints":0,
+	"hideAnswers":2
+	},
+"aboutAnswer":"The Julian calendar, proposed by Julius Caesar in AUC 708 (46 BC), was a reform of the Roman calendar. It took effect on 1 January AUC 709 (45 BC), by edict.\nIt was designed with the aid of Greek mathematicians and astronomers such as Sosigenes of Alexandria.\nThe calendar became the predominant calendar in the Roman Empire and subsequently most of the Western world for more than 1,600 years until 1582, when Pope Gregory XIII promulgated a minor modification to reduce the average length of the year from 365.25 days to 365.2425 days and thus corrected the Julian calendar\'s drift against the solar year.\nWorldwide adoption of this revised calendar, which became known as the Gregorian calendar, took place over the subsequent centuries, first in Catholic countries and subsequently in Protestant countries of the Western Christian world.\nThe Julian calendar is still used in parts of the Eastern Orthodox Church and in parts of Oriental Orthodoxy as well as by the Berbers.\nThe Julian calendar has two types of years: a normal year of 365 days and a leap year of 366 days. They follow a simple cycle of three normal years and one leap year, giving an average year that is 365.25 days long. That is more than the actual solar year value of 365.24219 days (the current value, which varies) which means the Julian calendar gains a day every 128 years.\nFor any given event during the years from 1901 to 2099 inclusive, its date according to the Julian calendar is 13 days behind its corresponding Gregorian date."
+}
