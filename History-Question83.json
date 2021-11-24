@@ -1,0 +1,22 @@
+{
+"app":"Visual Quiz",
+"question":"Which place is this?",
+"answers":[
+	"Machu Picchu",
+	"Valley of the Kings",
+	"Petra",
+	"The Alhambra"
+	],
+"correctAnswer":2,
+"hints":[
+	"The valley stands on the west bank of the Nile",
+	"It was the principal burial place of the major royal figures of the Egyptian New Kingdom",
+	"Petra is an historic and archaeological city in southern Jordan",
+	"Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru"
+	],
+"earn":{
+	"hints":1,
+	"hideAnswers":2
+	},
+"aboutAnswer":"The Valley of the Kings is a valley in Egypt where, for a period of nearly 500 years from the 16th to 11th century BC, rock-cut tombs were excavated for the pharaohs and powerful nobles of the New Kingdom (the Eighteenth to the Twentieth Dynasties of Ancient Egypt).\nThe valley stands on the west bank of the Nile, opposite Thebes (modern Luxor), within the heart of the Theban Necropolis.\nThe wadi consists of two valleys: the East Valley (where the majority of the royal tombs are situated) and the West Valley (Valley of the Monkeys).\nIt was the principal burial place of the major royal figures of the Egyptian New Kingdom, as well as a number of privileged nobles. The royal tombs are decorated with scenes from Egyptian mythology and give clues as to the beliefs and funerary practices of the period.\nAlmost all of the tombs seem to have been opened and robbed in antiquity, but they still give an idea of the opulence and power of the pharaohs.\nSince the 1920s, the valley has been famous for the discovery of the tomb of Tutankhamun, and is one of the most famous archaeological sites in the world.\nIn 1979, it became a World Heritage Site, along with the rest of the Theban Necropolis. Exploration, excavation and conservation continues in the valley, and a new tourist centre has recently been opened."
+}

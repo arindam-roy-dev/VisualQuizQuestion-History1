@@ -1,0 +1,21 @@
+{
+"app":"Visual Quiz",
+"question":"Which place is this?",
+"answers":[
+	"El Morro",
+	"Leptis Magna",
+	"Petra",
+	"Huaca Pucllana"
+	],
+"correctAnswer":4,
+"hints":[
+	"Located in the Miraflores district of central Lima, Peru",
+	"Lepcis Magna was a prominent city of the Carthaginian Empire and Roman Libya at the mouth of the Wadi Lebda in the Mediterranean",
+	"Petra is an historic and archaeological city in southern Jordan"
+	],
+"earn":{
+	"hints":2,
+	"hideAnswers":0
+	},
+"aboutAnswer":"Huaca Pucllana or Huaca Juliana is a great adobe and clay pyramid located in the Miraflores district of central Lima, Peru, built from seven staggered platforms.\nIt served as an important ceremonial and administrative center for the advancement of the Lima Culture, a society which developed in the Peruvian Central Coast between the years of 200 AD and 700 AD.\nWith the intended purpose of having the elite clergymen (who politically governed several valleys in the area) express their complete religious power and ability to control the use of all the natural water resources (saltwater and freshwater) of the zone, a Great Pyramid was constructed in the Huaca.\nAs a whole, the structure is surrounded by a plaza, or central square, that borders the outer limits, and by a large structured wall dividing it into two separate sections.\nIn one section there were benches and evidence of deep pits where offerings of fish and other marine life took place in order to attain the favor of the gods.\nThe other section is an administrative area. This area contains various small clay structures and huts made of adobe–with some walls still standing–whose function seemed to be to act as the courtyards and patios of the enclosure which is over 500 meters in length, 100 in width and 22 in height.\nOther remains have been uncovered belonging to the Wari Culture (500 – 1000 AD), which was a direct influence on the Lima Culture society towards the ends of its time period. Of particular note are the remains of the \'Señor de los Unkus\' (The Lord of the Unkus), which belonged to the first tomb within the ceremonial center to have been discovered completely intact. This tomb holds three separate burial shrouds containing the remains of three adults–two of which have masks–and those of a sacrificed child."
+}
